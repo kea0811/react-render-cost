@@ -4,6 +4,8 @@
 ![coverage](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
+**🌐 [Live demo →](https://react-render-cost.vercel.app)**
+
 > Rank your React components by average render cost — straight from Profiler data. Find the slow ones, gate them in CI, and diff two runs to catch regressions before they ship.
 
 You already have the numbers: React's `<Profiler>` hands you `actualDuration` on every commit. `react-render-cost` turns that firehose of samples into a ranked table — which components are actually expensive, how often they re-render, and whether a change made things worse. No flame graph spelunking, no guessing.
