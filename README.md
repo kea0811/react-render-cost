@@ -12,7 +12,7 @@ You already have the numbers: React's `<Profiler>` hands you `actualDuration` on
 
 ## For AI coding agents
 
-Drop [`SKILL.md`](./SKILL.md) into your AI editor / Claude Code workspace and it learns how to use this tool — when to reach for it, the install + canonical pattern, the CLI flags, and the gotchas that are easy to miss.
+Drop [`SKILL.md`](./SKILL.md) into your AI editor / coding agent workspace and it learns how to use this tool — when to reach for it, the install + canonical pattern, the CLI flags, and the gotchas that are easy to miss.
 
 ## Install
 
